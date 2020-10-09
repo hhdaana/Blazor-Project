@@ -1,0 +1,318 @@
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.blazor.config
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.exe
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.deps.json
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.json
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.dev.json
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.pdb
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.pdb
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csprojAssemblyReference.cache
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.Manifest.cache
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.xml
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfoInputs.cache
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfo.cs
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.RazorTargetAssemblyInfo.cache
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csproj.CopyComplete
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.blazor.config
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.exe
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.deps.json
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.json
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.dev.json
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.pdb
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.pdb
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfo.cs
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csproj.CopyComplete
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.Manifest.cache
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.xml
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.genruntimeconfig.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.blazor.config
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.exe
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.deps.json
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.json
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.dev.json
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.pdb
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.pdb
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfo.cs
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csproj.CopyComplete
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.Manifest.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.xml
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.genruntimeconfig.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.blazor.config
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.exe
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.deps.json
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.json
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.dev.json
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.pdb
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.pdb
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csprojAssemblyReference.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfoInputs.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfo.cs
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csproj.CoreCompileInputs.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.RazorTargetAssemblyInfo.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csproj.CopyComplete
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.Manifest.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.xml
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.genruntimeconfig.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.blazor.config
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.exe
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.deps.json
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.json
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Client.pdb
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\bin\Debug\netcoreapp3.1\BlazorCrud.Shared.pdb
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.RazorTargetAssemblyInfo.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.csproj.CopyComplete
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.Manifest.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorCrud.Server.StaticWebAssets.xml
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.pdb
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Server\obj\Debug\netcoreapp3.1\BlazorCrud.Server.genruntimeconfig.cache

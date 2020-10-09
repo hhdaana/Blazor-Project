@@ -1,0 +1,43 @@
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.deps.json
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.pdb
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfoInputs.cache
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfo.cs
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.dll
+E:\Projects\BlazorUpdates\ASPCore.BlazorCrud\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.pdb
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.deps.json
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.pdb
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfo.cs
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.dll
+C:\Users\pc\Desktop\hadi interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.pdb
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.deps.json
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.pdb
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.csprojAssemblyReference.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfoInputs.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfo.cs
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.dll
+C:\Interview\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.pdb
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.deps.json
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.pdb
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfo.cs
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.dll
+C:\Users\pc\Desktop\hadi interview\New folder\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.pdb
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.deps.json
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.1\BlazorCrud.Shared.pdb
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.dll
+C:\Users\alial\OneDrive\Desktop\ASPCore.BlazorCrud-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.1\BlazorCrud.Shared.pdb

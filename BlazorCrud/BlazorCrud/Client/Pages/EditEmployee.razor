@@ -1,0 +1,66 @@
+﻿@page "/editemployee/{empID:int}"
+@using BlazorCrud.Shared.Models
+@inject HttpClient Http
+@inject NavigationManager urlNavigationManager
+
+<h2>Edit Employee</h2>
+<hr />
+
+<EditForm Model="@emp" OnValidSubmit="UpdateEmployee">
+    <DataAnnotationsValidator />
+    <div class="form-group row">
+        <label class="control-label col-md-12">Last Name</label>
+        <div class="col-md-4">
+            <input class="form-control" @bind="emp.LastName" />
+        </div>
+        <ValidationMessage For="@(() => emp.LastName)" />
+    </div>
+    <div class="form-group row">
+        <label class="control-label col-md-12">First Name</label>
+        <div class="col-md-4">
+            <input class="form-control" @bind="emp.FirstName" />
+        </div>
+        <ValidationMessage For="@(() => emp.FirstName)" />
+    </div>
+    <div class="form-group row">
+        <label class="control-label col-md-12">Phone Number</label>
+        <div class="col-md-4">
+            <input class="form-control" @bind="emp.PhoneNumber" />
+        </div>
+        <span><ValidationMessage For="@(() => emp.PhoneNumber)" /></span>
+    </div>
+    <div class="form-group row">
+        <label class="control-label col-md-12">Birth Date</label>
+        <div class="col-md-4">
+            <input class="form-control" @bind="emp.BirthDate" />
+        </div>
+        <span><ValidationMessage For="@(() => emp.BirthDate)" /></span>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+        <button class="btn btn-light" @onclick="Cancel">Cancel</button>
+    </div>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int empID { get; set; }
+
+    Contact emp = new Contact();
+
+    protected override async Task OnInitializedAsync()
+    {
+        emp = await Http.GetJsonAsync<Contact>("/api/Employee/Details/" + empID);
+    }
+
+    protected async Task UpdateEmployee()
+    {
+        await Http.SendJsonAsync(HttpMethod.Put, "api/Employee/Edit", emp);
+        urlNavigationManager.NavigateTo("/fetchemployee");
+    }
+
+    void Cancel()
+    {
+        urlNavigationManager.NavigateTo("/fetchemployee");
+    }
+}
